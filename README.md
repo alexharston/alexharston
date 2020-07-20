@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on
   - [my PhD in Computational Neuroscience](https://faisallab.org/members/alex-harston) at Imperial College London
   - my startup, [goodwright](https://goodwright.org)
-  - some [side projects](https://harston.io/projects), like [SciDraw](https://scidraw.io)
+  - some [side projects](https://harston.io/#projects), like [SciDraw](https://scidraw.io)
 
 - 📫 How to reach me:
   - through my site, [harston.io](https://harston.io)
