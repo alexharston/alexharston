@@ -1,6 +1,6 @@
 ## Hey, I'm Alex
 
-### I'm a PhD student and web developer
+#### I'm a PhD student and web developer.
 
 [![alexharston's github stats](https://github-readme-stats.vercel.app/api?username=alexharston&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
