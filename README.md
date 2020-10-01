@@ -16,6 +16,6 @@
   - through [harston.io](https://harston.io)
 
 - 💯 What I mainly do
-  - I build [computational machine learning models for predicting human behaviour](https://harston.io/research).
+  - I build [machine learning models for predicting human behaviour](https://harston.io/research).
   - I do front-end web design and development work.
   - I work mainly in Python/Django, and am learning React and GraphQL.
