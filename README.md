@@ -2,10 +2,6 @@
 
 #### I'm a PhD student and web developer.
 
-[![alexharston's github stats](https://github-readme-stats.vercel.app/api?username=alexharston&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 - 🔭 I’m currently working on
   - [my PhD in Computational Neuroscience](https://faisallab.org/members/alex-harston) at Imperial College London
   - my startup, [goodwright](https://goodwright.org)
