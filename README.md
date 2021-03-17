@@ -14,4 +14,4 @@
 - 💯 What I mainly do
   - I build [machine learning models for predicting human behaviour](https://harston.io/research).
   - I do front-end web design and development work.
-  - I work mainly in Python/Django, and am learning React and GraphQL.
+  - I work mainly in Python/Django, along with React and GraphQL.
