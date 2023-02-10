@@ -1,9 +1,8 @@
 ## Hey, I'm Alex
 
-#### I'm a PhD student and web developer.
+#### I'm a web developer, and I've recently finished my PhD in Computational Neuroscience at Imperial College London.
 
 - 🔭 I’m currently working on
-  - [my PhD in Computational Neuroscience](https://faisallab.org/members/alex-harston) at Imperial College London
   - my startup, [goodwright](https://goodwright.org)
   - some [side projects](https://harston.io/projects), like [SciDraw](https://scidraw.io), [tweeprint](https://tweeprint.com)
 
