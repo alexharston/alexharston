@@ -1,16 +1,12 @@
 ## Hey, I'm Alex
 
-#### I'm a web developer, and I've recently finished my PhD in Computational Neuroscience at Imperial College London.
+#### I'm a developer and scientist, currently living in Japan.
 
 - 🔭 I’m currently working on
-  - my startup, [goodwright](https://goodwright.org)
-  - some [side projects](https://harston.io/projects), like [SciDraw](https://scidraw.io), [tweeprint](https://tweeprint.com)
+  - my [small startup](https://goodwright.com), building a cool new bioinformatics platform, [flow.bio](https://flow.bio)
+  - A platform for rendering brain anatomy data (coming soon)
+  - some [occasional side projects](https://harston.io/projects), like [SciDraw](https://scidraw.io)
 
 - 📫 How to reach me:
-  - through twitter [@alexharston](https://twitter.com/alexharston)
-  - through [harston.io](https://harston.io)
-
-- 💯 What I mainly do
-  - I build [machine learning models for predicting human behaviour](https://harston.io/research).
-  - I do front-end web design and development work.
-  - I work mainly in Python/Django, along with React and GraphQL.
+  - probably through twitter [@alexharston](https://twitter.com/alexharston)
+  - via email at [alex at harston.io](mailto:alex@harston.io)
