@@ -1,6 +1,6 @@
 ## Hey, I'm Alex
 
-#### I'm a developer and scientist.
+#### I'm a developer and neuroscientist.
 
 - 🔭 I’m currently working on
   - my [small startup](https://goodwright.com), building a cool new bioinformatics platform, [flow.bio](https://flow.bio)
