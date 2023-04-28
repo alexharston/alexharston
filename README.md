@@ -1,6 +1,6 @@
 ## Hey, I'm Alex
 
-#### I'm a developer and scientist, currently living in Japan.
+#### I'm a developer and scientist.
 
 - 🔭 I’m currently working on
   - my [small startup](https://goodwright.com), building a cool new bioinformatics platform, [flow.bio](https://flow.bio)
